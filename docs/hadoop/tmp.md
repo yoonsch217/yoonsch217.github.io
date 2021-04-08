@@ -1,3 +1,10 @@
+---
+layout: default
+title: seokchan-test
+parent: hadoop
+nav_order: 1
+---
+
 # The first header
 
 plain text
