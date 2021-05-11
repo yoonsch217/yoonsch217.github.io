@@ -1,4 +1,4 @@
-
+```
 
 # Search
 {: .no_toc }
