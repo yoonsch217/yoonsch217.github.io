@@ -1,3 +1,14 @@
+기본 매뉴얼
+docs 안에 파일 혹은 디렉토리를 생성한다.
+파일을 생성하는 경우 블로그 첫 페이지에서 바로 클릭해서 포스트에 들어갈 수 있다.
+디렉토리를 생성하는 경우 하나의 카테고리가 생기는 것이다.
+디렉토리의 경우 안에 디렉토리와 이름이 같은 md 파일을 생성해야한다.
+블로그에서 노출되는 카테고리 이름은 이 그 md 파일에서 정한다. 디렉토리 이름으로 노출되는 게 아니다.
+nav_order을 정해줘야하는데 낮을 수록 위에 뜬다. 같은 order이면 알파벳 순 아닐까?
+
+기타는 https://pmarsceill.github.io/just-the-docs 참고한다.
+
+
 <p align="right">
     <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions?query=workflow%3A%22Master+branch+CI%22"><img src="https://github.com/pmarsceill/just-the-docs/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a>
 </p>
