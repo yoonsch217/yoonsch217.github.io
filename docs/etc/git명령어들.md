@@ -2,7 +2,7 @@
 layout: default
 title: git 명령어()
 nav_order: 2
-permalink: /docs/etc
+parent: etc
 ---
 
 
