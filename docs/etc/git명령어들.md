@@ -1,6 +1,6 @@
 ---
 layout: default
-title: git 명령어()
+title: git 명령어(commit 합치기, git 비밀번호 물어보지 않기, 특정 commit으로 복구)
 nav_order: 2
 parent: etc
 ---
