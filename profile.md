@@ -6,4 +6,4 @@ description: "Simple Profile"
 permalink: /
 ---
 
-https://www.linkedin.com/in/seokchan-yoon-21a7bb141/
+[Linkedin Profile](https://www.linkedin.com/in/seokchan-yoon-21a7bb141/)
