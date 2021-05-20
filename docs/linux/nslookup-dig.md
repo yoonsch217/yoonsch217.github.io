@@ -2,7 +2,7 @@
 layout: default
 title: DNS의 TCP, UDP 쓰레드가 살아있는지 체크(nslookup, dig)
 nav_order: 2
-parent: linux
+parent: Linux 명령어
 ---
 
 

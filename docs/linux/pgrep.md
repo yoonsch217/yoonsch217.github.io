@@ -2,7 +2,7 @@
 layout: default
 title: 원하는 프로세스들 pid를 뽑아 작업 종료시키기(pgrep)
 nav_order: 2
-parent: linux
+parent: Linux 명령어
 ---
 
 

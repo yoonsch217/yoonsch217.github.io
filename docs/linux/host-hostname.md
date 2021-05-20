@@ -2,7 +2,7 @@
 layout: default
 title: 호스트의 IP 주소 얻기(host, hostname)
 nav_order: 2
-parent: linux
+parent: Linux 명령어
 ---
 
 

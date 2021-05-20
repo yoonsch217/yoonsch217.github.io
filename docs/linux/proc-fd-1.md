@@ -2,7 +2,7 @@
 layout: default
 title: 프로세스의 표준 출력 확인하기(/proc/<pid>/fd/1)
 nav_order: 2
-parent: linux
+parent: Linux 명령어
 ---
 
 

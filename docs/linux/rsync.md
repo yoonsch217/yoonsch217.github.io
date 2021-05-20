@@ -2,7 +2,7 @@
 layout: default
 title: 네트워크 속도 측정(rsync)
 nav_order: 2
-parent: linux
+parent: Linux 명령어
 ---
 
 
