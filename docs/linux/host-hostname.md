@@ -33,7 +33,7 @@ HOST2.com has address 10.xxx.xxx.xxx
 hostname 명령어를 통해 자신의 IP를 알 수 있다.
 
 > -i, --ip-address
-> Display the network address(es) of the host name. Note that this works only if the host name can be resolved. Avoid using this option; use hostname --all-ip-addresses instead.
+>> Display the network address(es) of the host name. Note that this works only if the host name can be resolved. Avoid using this option; use hostname --all-ip-addresses instead.
 
 `-i` 옵션을 넣는 경우 장비의 호스트명만 나온다.
 
@@ -46,7 +46,7 @@ root@HOST:~:$ hostname -i
 `-I` 옵션을 넣는 경우는 해당 장비가 물고 있는 모든 IP 주소가 나온다.
 
 > -I, --all-ip-addresses
-> Display all network addresses of the host. This option enumerates all configured addresses on all network interfaces. The loopback interface and IPv6 link-local addresses are omitted. Contrary to option  -i,  this  option  does  not depend on name resolution. Do not make any assumptions about the order of the output.
+>> Display all network addresses of the host. This option enumerates all configured addresses on all network interfaces. The loopback interface and IPv6 link-local addresses are omitted. Contrary to option  -i,  this  option  does  not depend on name resolution. Do not make any assumptions about the order of the output.
 
 ```
 root@HOST:~:$ hostname -I
