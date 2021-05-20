@@ -1,7 +1,7 @@
 ---
 layout: default
-title: linux 명령어
-nav_order: 2
+title: linux commands
+nav_order: 3
 has_children: true
 permalink: /docs/linux
 ---
