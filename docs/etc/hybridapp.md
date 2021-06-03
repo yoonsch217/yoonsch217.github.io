@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hybrid Mobile app
+title: Cross-Platform Mobile app
 nav_order: 2
 parent: etc
 ---
