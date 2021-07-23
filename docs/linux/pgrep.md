@@ -1,23 +1,22 @@
 ---
 layout: default
-title: 원하는 프로세스들 pid를 뽑아 작업 종료시키기(pgrep)
+title: 원하는 프로세스들 pid를 뽑아 작업 종료시키기(pgrep, grep)
 nav_order: 2
 parent: Linux 명령어
 ---
 
-
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
 ## pgrep
 
 > pgrep looks through the currently running processes and lists the process IDs which matches the selection criteria to stdout. All the criteria have to match.
-
 
 `my_process` 라는 문자열이 들어간 프로세스를 모두 찾아서 종료시키고 싶다.
 
@@ -29,3 +28,12 @@ parent: Linux 명령어
 이렇게 뽑아낸 pid들의 작업을 종료시키기 위해서는
 `pgrep -f my_process | xargs kill` 명령어로 할 수 있다.
 
+## grep
+
+https://zzsza.github.io/development/2017/12/16/linux-4/
+
+```
+ls -l | grep '^d'
+```
+
+디렉터리만 출력한다.
