@@ -96,3 +96,4 @@ https://engineering.linkedin.com/blog/2020/open-sourcing-kube2hadoop
 https://github.com/linkedin/kube2hadoop
 https://www.altoros.com/blog/linkedin-aims-to-deploy-thousands-of-hadoop-servers-on-kubernetes/
 https://www.datanami.com/2020/06/10/linkedin-open-sources-kube2hadoop/
+https://www.youtube.com/watch?v=VFIwJrkFw1s&t=1256s
