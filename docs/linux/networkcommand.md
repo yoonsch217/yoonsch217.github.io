@@ -2,7 +2,7 @@
 layout: default
 title: 네트워크 확인 명령어
 nav_order: 2
-parent: linux
+parent: Linux 명령어
 ---
 
 netstat -anp | grep $pid
